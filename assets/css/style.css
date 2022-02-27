@@ -8,7 +8,8 @@ body {
     background-color: #d9dcd6;
 }
 
-/* HEADER */
+/* H E A D E R */
+
 
 .header {
     padding: 20px;
@@ -54,7 +55,7 @@ p {
     font-size: 16px;
 }
 
-/* HERO SECTION */
+/* H E R O  S E C T I O N */
 
 .hero {
     height: 800px;
@@ -65,7 +66,8 @@ p {
     background-position: center;
 }
 
-/* SERVICES SECTION */
+/* S E R V I C E S   S E C T I O N 
+    > reorganized sequence of selectors */
 
 .services {
     width: 75%;
@@ -83,7 +85,6 @@ p {
     margin-left: 25px;
 }
 
-/* modified "search-engine-optimization" to "service-seo" */
 .service-seo {
     margin-bottom: 20px;
     padding: 50px;
@@ -93,18 +94,15 @@ p {
     color: #ffffff;
 }
 
-/* modified "search-engine-optimization" to "service-seo" */
 .service-seo img {
     max-height: 200px;
 }
 
-/* modified "search-engine-optimization" to "service-seo" */
 .service-seo h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
-/* modified "online-reputation-management" to "service-reputation" */
 .service-reputation {
     margin-bottom: 20px;
     padding: 50px;
@@ -114,19 +112,15 @@ p {
     color: #ffffff;
 }
 
-/* modified "online-reputation-management" to "service-reputation" */
 .service-reputation h2 {
     margin-bottom: 20px;
     font-size: 36px;
-    
 }
 
-/* modified "online-reputation-management" to "service-reputation" */
 .service-reputation img {
     max-height: 200px;
 }
 
-/* modified "social-media-marketing" to "service-marketing" */
 .service-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -136,18 +130,17 @@ p {
     color: #ffffff;
 }
 
-/* modified "social-media-marketing" to "service-marketing" */
 .service-marketing img {
     max-height: 200px;
 }
 
-/* modified "social-media-marketing" to "service-marketing" */
 .service-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
-/* BENEFITS SECTION */
+/* B E N E F I T S  S E C T I O N
+    > reorganized sequence of selectors */
 
 .benefits {
     margin-right: 20px;
@@ -175,7 +168,6 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
 
 .benefit-brand {
     margin-bottom: 32px;
@@ -209,7 +201,7 @@ p {
     max-width: 150px;
 }
 
-
+/* F O O T E R */
 
 .footer {
     padding: 30px;
