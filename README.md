@@ -6,9 +6,13 @@ A refactored version of the Horiseon page that is update with accessibility in m
 ## Built With
 * HTML
 * CSS
+* Visual Studio Code
 
 ## Website
 https://eggplaan.github.io/horiseon-a11y/
 
 ## Contribution
 Made with ❤️ by William Hsing
+
+## Screenshot
+(https://eggplaan.github.io/horiseon-a11y/assets/images/screenshot.png)
