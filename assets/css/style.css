@@ -10,7 +10,6 @@ body {
 
 /* H E A D E R */
 
-
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -35,8 +34,6 @@ body {
     color: #d9dcd6;
 }
 
-
-
 .header div ul {
     list-style-type: none;
 }
@@ -56,7 +53,6 @@ p {
 }
 
 /* H E R O  S E C T I O N */
-
 .hero {
     height: 800px;
     width: 100%;
@@ -68,7 +64,6 @@ p {
 
 /* S E R V I C E S   S E C T I O N 
     > reorganized sequence of selectors */
-
 .services {
     width: 75%;
     display: inline-block;
@@ -141,7 +136,6 @@ p {
 
 /* B E N E F I T S  S E C T I O N
     > reorganized sequence of selectors */
-
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -202,7 +196,6 @@ p {
 }
 
 /* F O O T E R */
-
 .footer {
     padding: 30px;
     clear: both;
