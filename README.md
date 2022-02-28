@@ -15,4 +15,4 @@ https://eggplaan.github.io/horiseon-a11y/
 Made with ❤️ by William Hsing
 
 ## Screenshot
-![Screenshot of Horiseon](./horiseon-a11y/assets/images/screenshot.png)
+![screenshot](https://user-images.githubusercontent.com/96388635/155907659-e4c85cbe-642d-433f-b5a3-35e7251822bf.png)
