@@ -1,4 +1,4 @@
-# Horiseon-A11y
+# Horiseon-a11y
 
 ## Purpose
 A refactored version of the Horiseon page that is update with accessibility in mind.
@@ -15,4 +15,4 @@ https://eggplaan.github.io/horiseon-a11y/
 Made with ❤️ by William Hsing
 
 ## Screenshot
-(https://eggplaan.github.io/horiseon-a11y/assets/images/screenshot.png)
+![Screenshot of Horiseon](https://eggplaan.github.io/horiseon-a11y/assets/images/screenshot.png)
